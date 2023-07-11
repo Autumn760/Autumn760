@@ -7,6 +7,10 @@ Hello World!
 
 _This is text that's italicized_
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://freesvg.org/img/Planet.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://freesvg.org/img/REQUEST-Need-Palm-Trees-Cut-out.png)
+
+## This is a second-level heading
+
+### This is a third-level heading
 
 
