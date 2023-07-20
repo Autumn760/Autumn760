@@ -3,7 +3,7 @@ My first GitHub repo!
 
 Hello World! 
 
-**Welcom**
+**Welcome to My Page**
 
 _Learning In Progress_
 
