@@ -1,1 +1,1 @@
-Hi, I'm Stephanie 👋 👩‍💻
+<b>Hi, I'm Stephanie 👋 👩‍💻 </b>
