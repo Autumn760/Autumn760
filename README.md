@@ -2,8 +2,8 @@
 <h2> Hi, I'm Stephanie 👋🏽 👩🏻‍💻</h2>
 <ul>
 
-<li> 💻 I'm currently working on Java, Javascript, HTML, CSS </li>
-<li> 🧠 I'm currently learning Full Stack Web Development with LaunchCode.</li>
-<li> 🌎 I want to make things for people to use.</li>
+<li> 🕸️ I'm a web developer.</li>
+<li> 💻 I'm working on Javascript and Java + side projects. </li>
+<li> 🌎 I want to make stuff for people to use.</li>
 
 </ul>
